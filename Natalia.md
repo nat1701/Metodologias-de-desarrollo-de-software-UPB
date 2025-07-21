@@ -1,4 +1,4 @@
-# Comandos Git utilizados por Natalia Castillo H
+# Comandos Git utilizados por Natalia Castillo Hernandez
 
 ```bash
 git checkout -b nataliaCastillo
