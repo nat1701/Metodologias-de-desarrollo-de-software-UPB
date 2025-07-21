@@ -5,3 +5,4 @@
 ### Integrantes:
  - Natalia Castillo
  - Jeronimo Duran
+ - Mateo Usuga
