@@ -1,6 +1,6 @@
 # Metologias de Desarrollo de Software
 
-## Nombre equipo  404 Not Found Team
+## Nombre equipo:  404 Not Found Team
 
 ### Integrantes:
  - Natalia Castillo
